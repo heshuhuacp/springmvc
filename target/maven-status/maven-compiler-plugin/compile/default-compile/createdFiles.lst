@@ -1,0 +1,6 @@
+com\springmvc\demo\controller\HelloController.class
+com\springmvc\demo\domain\DemoObj.class
+com\springmvc\demo\controller\DemoAnnoController.class
+com\springmvc\demo\controller\DemoRestController.class
+com\springmvc\demo\config\SpringMVCConfig.class
+com\springmvc\demo\config\WebInitializer.class
